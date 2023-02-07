@@ -1,0 +1,28 @@
+header {
+  margin: auto;
+}
+
+.lesson {
+    background-color: lemonchiffon;
+  }
+  
+  .title {
+    color: darkblue;
+  }
+  .contact-form {
+    color: lightblue;
+    position: inline;
+  } 
+  
+  #github {
+    background-color: lightsteelblue;
+  }
+  
+  #portfolio {
+    background-color: darkorange;
+  }
+
+  #img {
+  border: 40px solid black
+  }
+  
